@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="92" viewBox="0 0 900 92" role="img" aria-label="systems are never meant to be trusted">
+  <defs>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="reveal">
+      <rect x="42" y="18" width="0" height="58">
+        <animate attributeName="width" values="0;700;700;0" keyTimes="0;0.58;0.88;1" dur="7s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <rect x="4" y="4" width="892" height="84" rx="10" fill="#080808" stroke="#8b0000" stroke-width="2"/>
+  <rect x="13" y="13" width="874" height="66" rx="7" fill="none" stroke="#2b0000" stroke-width="1"/>
+  <g clip-path="url(#reveal)" filter="url(#glow)">
+    <text x="42" y="58" font-family="Consolas, 'Courier New', monospace" font-size="28" font-weight="700" fill="#ff1a1a">systems are never meant to be trusted</text>
+  </g>
+  <rect x="44" y="30" width="3" height="36" fill="#ff1a1a" filter="url(#glow)">
+    <animate attributeName="x" values="44;744;744;44" keyTimes="0;0.58;0.88;1" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;1;0;1" dur="0.75s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="858" cy="46" r="3" fill="#ff1a1a">
+    <animate attributeName="opacity" values="0.15;1;0.15" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+</svg>
