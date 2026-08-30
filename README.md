@@ -82,42 +82,11 @@ It's about understanding the systems underneath it.
 
 <img src="./assets/red-divider.svg" width="100%" alt="Red cyberpunk divider" />
 
-## `> ./languages --offensive`
-
-<table>
-<tr><td><b>Rust</b></td><td>systems programming, implants, tooling</td></tr>
-<tr><td><b>Go</b></td><td>networking, agents, infrastructure, tooling</td></tr>
-<tr><td><b>C / C++</b></td><td>Windows internals, payloads, low-level execution</td></tr>
-<tr><td><b>Nim</b></td><td>offensive experimentation and lightweight tooling</td></tr>
-<tr><td><b>Assembly</b></td><td>internals, debugging, exploitation, reversing</td></tr>
-</table>
-
-Different languages expose different parts of the machine.
-
-I like working close enough to the operating system that abstractions start disappearing and the interesting details begin to show.
-
-<img src="./assets/red-divider.svg" width="100%" alt="Red cyberpunk divider" />
-
-## `> operator.log`
-
-```text
-[STATUS] Always learning.
-[MODE]   Offensive.
-[FOCUS]  C2 Research / Malware Development / Vulnerability Research
-[GOAL]   Understand how things break by learning how they work.
-```
-
-<img src="./assets/red-divider.svg" width="100%" alt="Red cyberpunk divider" />
-
 <div align="center">
 
 ### **Build. Break. Research. Repeat.**
 
 *"The interesting part of security begins where the intended behavior ends."*
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=malj0y&style=flat-square&label=RECON&color=red)
 
 </div>
 
