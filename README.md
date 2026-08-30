@@ -44,58 +44,14 @@ Then I build it, break it, instrument it, test it in controlled environments, le
 
 ## `> ls interests/`
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚔️ Red Team Operations
-
-- Adversary Simulation
-- Active Directory
-- Initial Access
-- Post-Exploitation
-- Offensive Tooling
-
-### 🧬 Malware Research
-
-- Malware Development
-- Windows Internals
-- Evasion Research
-- Payload Engineering
-- Implant Development
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Offensive Development
-
-- Rust
-- Go
-- C
-- C++
-- Nim
-- Assembly
-
-### 🔬 Vulnerability Research
-
-- Bug Bounty Hunting
-- Web Security
-- Exploit Development
-- Attack Surface Research
-
-### 🤖 AI Red Teaming
-
-- Adversarial AI
-- LLM Security
-- AI-Assisted Offensive Security
-
-### 🧪 Research
-
-- "What happens if we try this?"
-
-</td>
-</tr>
-</table>
+| Domain | Focus |
+|---|---|
+| ⚔️ **Red Team Operations** | Adversary Simulation · Active Directory · Initial Access · Post-Exploitation · Offensive Tooling |
+| 🧬 **Malware Research** | Malware Development · Windows Internals · Evasion Research · Payload Engineering · Implant Development |
+| ⚙️ **Offensive Development** | Rust · Go · C · C++ · Nim · Assembly |
+| 🔬 **Vulnerability Research** | Bug Bounty Hunting · Web Security · Exploit Development · Attack Surface Research |
+| 🤖 **AI Red Teaming** | Adversarial AI · LLM Security · AI-Assisted Offensive Security |
+| 🧪 **Research** | "What happens if we try this?" |
 
 <img src="./assets/red-divider.svg" width="100%" alt="Red cyberpunk divider" />
 
@@ -126,24 +82,6 @@ It's about understanding the systems underneath it.
 
 <img src="./assets/red-divider.svg" width="100%" alt="Red cyberpunk divider" />
 
-## `> ./arsenal`
-
-| | Area |
-|---|---|
-| ⚔️ | Red Team Operations |
-| 🧬 | Malware Research & Development |
-| 🦀 | Offensive Rust |
-| 🐹 | Offensive Go |
-| ⚙️ | Offensive C / C++ |
-| 👑 | Offensive Nim |
-| 🧠 | Assembly & Low-Level Internals |
-| 🐛 | Bug Bounty Hunting |
-| 🔬 | Vulnerability Research |
-| 🏴‍☠️ | Active Directory Security |
-| 🤖 | AI Red Teaming |
-
-<img src="./assets/red-divider.svg" width="100%" alt="Red cyberpunk divider" />
-
 ## `> ./languages --offensive`
 
 <table>
@@ -160,49 +98,12 @@ I like working close enough to the operating system that abstractions start disa
 
 <img src="./assets/red-divider.svg" width="100%" alt="Red cyberpunk divider" />
 
-## `> philosophy`
-
-```c
-while (curious) {
-    study(the_system);
-    build(the_idea);
-    break(the_assumption);
-    understand(the_failure);
-    improve(the_tradecraft);
-}
-```
-
-I like code that teaches me something.
-
-Sometimes that's a normal application.
-
-Sometimes it's an exploit.
-
-Sometimes it's an implant prototype.
-
-Sometimes it starts looking suspicious enough that an EDR might want to have a conversation with it.
-
-That's usually when things get interesting.
-
-<img src="./assets/red-divider.svg" width="100%" alt="Red cyberpunk divider" />
-
 ## `> operator.log`
 
 ```text
-[*] Security Engineering
-[*] Red Team Operations
-[*] Malware Development & Research
-[*] Vulnerability Research
-[*] Bug Bounty Hunting
-[*] Offensive Systems Programming
-[*] Rust / Go / C / C++ / Nim / Assembly
-[*] AI / LLM Red Teaming
-[*] Command & Control Research
-[*] Exploit Development
-[*] Windows Internals
-
 [STATUS] Always learning.
 [MODE]   Offensive.
+[FOCUS]  C2 Research / Malware Development / Vulnerability Research
 [GOAL]   Understand how things break by learning how they work.
 ```
 
