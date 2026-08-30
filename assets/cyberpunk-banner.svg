@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050510"/>
+      <stop offset="0.5" stop-color="#09091a"/>
+      <stop offset="1" stop-color="#020208"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00f7ff"/>
+      <stop offset="0.45" stop-color="#8a2be2"/>
+      <stop offset="1" stop-color="#ff2bd6"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#00f7ff" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <clipPath id="frame"><rect x="8" y="8" width="1184" height="174" rx="10"/></clipPath>
+  </defs>
+
+  <rect width="1200" height="190" rx="12" fill="url(#bg)"/>
+  <rect width="1200" height="190" rx="12" fill="url(#grid)"/>
+
+  <g clip-path="url(#frame)">
+    <g opacity="0.75" filter="url(#glow)">
+      <path d="M0 150 H180 L215 115 H360 L395 150 H590 L630 92 H790 L830 150 H1200" fill="none" stroke="url(#neon)" stroke-width="2" stroke-dasharray="8 10">
+        <animate attributeName="stroke-dashoffset" from="0" to="-180" dur="6s" repeatCount="indefinite"/>
+      </path>
+      <path d="M0 50 H140 L175 78 H300 L340 42 H520 L555 78 H730 L770 44 H940 L980 78 H1200" fill="none" stroke="url(#neon)" stroke-width="1.5" stroke-dasharray="5 12">
+        <animate attributeName="stroke-dashoffset" from="0" to="170" dur="8s" repeatCount="indefinite"/>
+      </path>
+    </g>
+
+    <g fill="#00f7ff">
+      <circle cx="215" cy="115" r="3"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.8s" repeatCount="indefinite"/></circle>
+      <circle cx="630" cy="92" r="3"><animate attributeName="opacity" values="1;0.2;1" dur="2.2s" repeatCount="indefinite"/></circle>
+      <circle cx="770" cy="44" r="3"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.4s" repeatCount="indefinite"/></circle>
+      <circle cx="980" cy="78" r="3"><animate attributeName="opacity" values="1;0.25;1" dur="2.6s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <rect x="0" y="-14" width="1200" height="14" fill="#00f7ff" opacity="0.08">
+      <animate attributeName="y" values="-14;190" dur="3.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.16;0" dur="3.8s" repeatCount="indefinite"/>
+    </rect>
+
+    <g opacity="0.18">
+      <rect x="35" y="23" width="180" height="3" fill="#ff2bd6"><animate attributeName="width" values="30;180;70;220;30" dur="4s" repeatCount="indefinite"/></rect>
+      <rect x="895" y="158" width="245" height="3" fill="#00f7ff"><animate attributeName="x" values="895;830;930;895" dur="5s" repeatCount="indefinite"/></rect>
+    </g>
+  </g>
+
+  <rect x="8" y="8" width="1184" height="174" rx="10" fill="none" stroke="url(#neon)" stroke-opacity="0.65" stroke-width="1.5"/>
+</svg>
