@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./assets/cyberpunk-banner.svg" width="100%" alt="Cyberpunk animated banner" />
+
+<br>
+
 ### `Hello Friend, Can I call you friend?`
 
 <br>
@@ -23,7 +27,7 @@
 
 </div>
 
----
+<img src="./assets/neon-divider.svg" width="100%" alt="Neon divider" />
 
 ## `> cat about_me.txt`
 
@@ -41,7 +45,7 @@ A lot of my work starts with a simple question:
 
 Then I build it, break it, instrument it, test it in controlled environments, learn from it, and usually come back with several more questions.
 
----
+<img src="./assets/neon-divider.svg" width="100%" alt="Neon divider" />
 
 ## `> ls interests/`
 
@@ -83,7 +87,7 @@ Then I build it, break it, instrument it, test it in controlled environments, le
     └── "What happens if we try this?"
 ```
 
----
+<img src="./assets/neon-divider.svg" width="100%" alt="Neon divider" />
 
 ## `> ./current_operation`
 
@@ -110,7 +114,7 @@ For me, building offensive tooling isn't only about producing a tool.
 
 It's about understanding the systems underneath it.
 
----
+<img src="./assets/neon-divider.svg" width="100%" alt="Neon divider" />
 
 ## `> ./arsenal`
 
@@ -128,7 +132,7 @@ It's about understanding the systems underneath it.
 | 🏴‍☠️ | Active Directory Security |
 | 🤖 | AI Red Teaming |
 
----
+<img src="./assets/neon-divider.svg" width="100%" alt="Neon divider" />
 
 ## `> ./languages --offensive`
 
@@ -144,7 +148,7 @@ Different languages expose different parts of the machine.
 
 I like working close enough to the operating system that abstractions start disappearing and the interesting details begin to show.
 
----
+<img src="./assets/neon-divider.svg" width="100%" alt="Neon divider" />
 
 ## `> philosophy`
 
@@ -170,7 +174,7 @@ Sometimes it starts looking suspicious enough that an EDR might want to have a c
 
 That's usually when things get interesting.
 
----
+<img src="./assets/neon-divider.svg" width="100%" alt="Neon divider" />
 
 ## `> operator.log`
 
@@ -192,7 +196,7 @@ That's usually when things get interesting.
 [GOAL]   Understand how things break by learning how they work.
 ```
 
----
+<img src="./assets/neon-divider.svg" width="100%" alt="Neon divider" />
 
 <div align="center">
 
