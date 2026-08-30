@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/red-typewriter.svg" width="100%" alt="$ hello friend, hello friend that's lame maybe I should give you a name?" />
+<img src="./assets/red-typewriter.svg" width="100%" alt="$ hello friend, can I call you friend?" />
 
 <br>
 
@@ -86,7 +86,7 @@ It's about understanding the systems underneath it.
 
 ### **Build. Break. Research. Repeat.**
 
-*"Malware & Exploits are the programmatic expression of my will, I live for this shit."*
+*"malw4re & explo1ts are the programmatic expression of my will, I live for this shit."*
 
 </div>
 
