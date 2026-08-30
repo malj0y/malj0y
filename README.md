@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/red-typewriter.svg" width="100%" alt="$ Hello Friend, Can I call you friend?" />
+<img src="./assets/red-typewriter.svg" width="100%" alt="$ hello friend, hello friend that's lame maybe I should give you a name?" />
 
 <br>
 
@@ -86,7 +86,7 @@ It's about understanding the systems underneath it.
 
 ### **Build. Break. Research. Repeat.**
 
-*"The interesting part of security begins where the intended behavior ends."*
+*"Malware & Exploits are the programmatic expression of my will, I live for this shit."*
 
 </div>
 
