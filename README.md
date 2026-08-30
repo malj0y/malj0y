@@ -1,19 +1,14 @@
 <div align="center">
 
-<img src="./assets/cyberpunk-banner.svg" width="100%" alt="Cyberpunk animated banner" />
+<img src="./assets/red-typewriter.svg" width="100%" alt="Hello Friend, Can I call you friend?" />
 
 <br>
 
-### `Hello Friend, Can I call you friend?`
+# ⛧ **MALJ0Y // RED TEAM OPERATOR** ⛧
 
-<br>
+### **Security Engineer by day. Red Team Operator by night.**
 
-# `> whoami`
-
-### **malj0y**
-**Security Engineer by day. Red Team Operator by night.**
-
-`Offensive Security` · `Adversary Simulation` · `Malware Development` · `AI Red Teaming` · `Vulnerability Research`
+`OFFENSIVE SECURITY` · `ADVERSARY SIMULATION` · `MALWARE DEVELOPMENT` · `AI RED TEAMING` · `VULNERABILITY RESEARCH`
 
 <br>
 
@@ -27,9 +22,9 @@
 
 </div>
 
-<img src="./assets/neon-divider.svg" width="100%" alt="Neon divider" />
+<img src="./assets/red-divider.svg" width="100%" alt="Red cyberpunk divider" />
 
-## `> cat about_me.txt`
+## 🔻 **IDENTITY // ABOUT ME**
 
 I'm a **Security Engineer** with a strong interest in the offensive side of security.
 
@@ -45,51 +40,66 @@ A lot of my work starts with a simple question:
 
 Then I build it, break it, instrument it, test it in controlled environments, learn from it, and usually come back with several more questions.
 
-<img src="./assets/neon-divider.svg" width="100%" alt="Neon divider" />
+<img src="./assets/red-divider.svg" width="100%" alt="Red cyberpunk divider" />
 
-## `> ls interests/`
+## ☠ **INTEREST MATRIX // ATTACK SURFACE**
 
-```text
-├── Red-Team-Operations/
-│   ├── Adversary-Simulation
-│   ├── Active-Directory
-│   ├── Initial-Access
-│   ├── Post-Exploitation
-│   └── Offensive-Tooling
-│
-├── Malware-Research/
-│   ├── Malware-Development
-│   ├── Windows-Internals
-│   ├── Evasion-Research
-│   ├── Payload-Engineering
-│   └── Implant-Development
-│
-├── Offensive-Development/
-│   ├── Rust
-│   ├── Go
-│   ├── C
-│   ├── C++
-│   ├── Nim
-│   └── Assembly
-│
-├── Vulnerability-Research/
-│   ├── Bug-Bounty-Hunting
-│   ├── Web-Security
-│   ├── Exploit-Development
-│   └── Attack-Surface-Research
-│
-├── AI-Red-Teaming/
-│   ├── Adversarial-AI
-│   ├── LLM-Security
-│   └── AI-Assisted-Offensive-Security
-│
-└── Research/
-    └── "What happens if we try this?"
-```
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="./assets/neon-divider.svg" width="100%" alt="Neon divider" />
+### ⚔️ Red Team Operations
 
-## `> ./current_operation`
+- Adversary Simulation
+- Active Directory
+- Initial Access
+- Post-Exploitation
+- Offensive Tooling
+
+### 🧬 Malware Research
+
+- Malware Development
+- Windows Internals
+- Evasion Research
+- Payload Engineering
+- Implant Development
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Offensive Development
+
+- Rust
+- Go
+- C
+- C++
+- Nim
+- Assembly
+
+### 🔬 Vulnerability Research
+
+- Bug Bounty Hunting
+- Web Security
+- Exploit Development
+- Attack Surface Research
+
+### 🤖 AI Red Teaming
+
+- Adversarial AI
+- LLM Security
+- AI-Assisted Offensive Security
+
+### 🧪 Research
+
+- "What happens if we try this?"
+
+</td>
+</tr>
+</table>
+
+<img src="./assets/red-divider.svg" width="100%" alt="Red cyberpunk divider" />
+
+## 🔴 **ACTIVE OPERATION // COMMAND & CONTROL**
 
 ### Building my own Command & Control Framework
 
@@ -114,9 +124,9 @@ For me, building offensive tooling isn't only about producing a tool.
 
 It's about understanding the systems underneath it.
 
-<img src="./assets/neon-divider.svg" width="100%" alt="Neon divider" />
+<img src="./assets/red-divider.svg" width="100%" alt="Red cyberpunk divider" />
 
-## `> ./arsenal`
+## ⚠️ **ARSENAL // CAPABILITY MATRIX**
 
 | | Area |
 |---|---|
@@ -132,25 +142,25 @@ It's about understanding the systems underneath it.
 | 🏴‍☠️ | Active Directory Security |
 | 🤖 | AI Red Teaming |
 
-<img src="./assets/neon-divider.svg" width="100%" alt="Neon divider" />
+<img src="./assets/red-divider.svg" width="100%" alt="Red cyberpunk divider" />
 
-## `> ./languages --offensive`
+## 🩸 **OFFENSIVE LANGUAGES // LOADOUT**
 
-```text
-Rust      -> systems programming, implants, tooling
-Go        -> networking, agents, infrastructure, tooling
-C / C++   -> Windows internals, payloads, low-level execution
-Nim       -> offensive experimentation and lightweight tooling
-Assembly  -> internals, debugging, exploitation, reversing
-```
+<table>
+<tr><td><b>Rust</b></td><td>systems programming, implants, tooling</td></tr>
+<tr><td><b>Go</b></td><td>networking, agents, infrastructure, tooling</td></tr>
+<tr><td><b>C / C++</b></td><td>Windows internals, payloads, low-level execution</td></tr>
+<tr><td><b>Nim</b></td><td>offensive experimentation and lightweight tooling</td></tr>
+<tr><td><b>Assembly</b></td><td>internals, debugging, exploitation, reversing</td></tr>
+</table>
 
 Different languages expose different parts of the machine.
 
 I like working close enough to the operating system that abstractions start disappearing and the interesting details begin to show.
 
-<img src="./assets/neon-divider.svg" width="100%" alt="Neon divider" />
+<img src="./assets/red-divider.svg" width="100%" alt="Red cyberpunk divider" />
 
-## `> philosophy`
+## 🧠 **DOCTRINE // PHILOSOPHY**
 
 ```c
 while (curious) {
@@ -174,9 +184,9 @@ Sometimes it starts looking suspicious enough that an EDR might want to have a c
 
 That's usually when things get interesting.
 
-<img src="./assets/neon-divider.svg" width="100%" alt="Neon divider" />
+<img src="./assets/red-divider.svg" width="100%" alt="Red cyberpunk divider" />
 
-## `> operator.log`
+## 📡 **OPERATOR STATUS // LIVE FEED**
 
 ```text
 [*] Security Engineering
@@ -196,7 +206,7 @@ That's usually when things get interesting.
 [GOAL]   Understand how things break by learning how they work.
 ```
 
-<img src="./assets/neon-divider.svg" width="100%" alt="Neon divider" />
+<img src="./assets/red-divider.svg" width="100%" alt="Red cyberpunk divider" />
 
 <div align="center">
 
@@ -206,7 +216,7 @@ That's usually when things get interesting.
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=malj0y&style=flat-square&label=RECON)
+![Profile Views](https://komarev.com/ghpvc/?username=malj0y&style=flat-square&label=RECON&color=red)
 
 </div>
 
