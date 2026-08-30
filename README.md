@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/red-typewriter.svg" width="100%" alt="Hello Friend, Can I call you friend?" />
+<img src="./assets/red-typewriter.svg" width="100%" alt="$ Hello Friend, Can I call you friend?" />
 
 <br>
 
-# ⛧ **MALJ0Y // RED TEAM OPERATOR** ⛧
+# **malj0y**
 
 ### **Security Engineer by day. Red Team Operator by night.**
 
@@ -24,7 +24,7 @@
 
 <img src="./assets/red-divider.svg" width="100%" alt="Red cyberpunk divider" />
 
-## 🔻 **IDENTITY // ABOUT ME**
+## `> cat about_me.txt`
 
 I'm a **Security Engineer** with a strong interest in the offensive side of security.
 
@@ -42,7 +42,7 @@ Then I build it, break it, instrument it, test it in controlled environments, le
 
 <img src="./assets/red-divider.svg" width="100%" alt="Red cyberpunk divider" />
 
-## ☠ **INTEREST MATRIX // ATTACK SURFACE**
+## `> ls interests/`
 
 <table>
 <tr>
@@ -99,7 +99,7 @@ Then I build it, break it, instrument it, test it in controlled environments, le
 
 <img src="./assets/red-divider.svg" width="100%" alt="Red cyberpunk divider" />
 
-## 🔴 **ACTIVE OPERATION // COMMAND & CONTROL**
+## `> ./current_operation`
 
 ### Building my own Command & Control Framework
 
@@ -126,7 +126,7 @@ It's about understanding the systems underneath it.
 
 <img src="./assets/red-divider.svg" width="100%" alt="Red cyberpunk divider" />
 
-## ⚠️ **ARSENAL // CAPABILITY MATRIX**
+## `> ./arsenal`
 
 | | Area |
 |---|---|
@@ -144,7 +144,7 @@ It's about understanding the systems underneath it.
 
 <img src="./assets/red-divider.svg" width="100%" alt="Red cyberpunk divider" />
 
-## 🩸 **OFFENSIVE LANGUAGES // LOADOUT**
+## `> ./languages --offensive`
 
 <table>
 <tr><td><b>Rust</b></td><td>systems programming, implants, tooling</td></tr>
@@ -160,7 +160,7 @@ I like working close enough to the operating system that abstractions start disa
 
 <img src="./assets/red-divider.svg" width="100%" alt="Red cyberpunk divider" />
 
-## 🧠 **DOCTRINE // PHILOSOPHY**
+## `> philosophy`
 
 ```c
 while (curious) {
@@ -186,7 +186,7 @@ That's usually when things get interesting.
 
 <img src="./assets/red-divider.svg" width="100%" alt="Red cyberpunk divider" />
 
-## 📡 **OPERATOR STATUS // LIVE FEED**
+## `> operator.log`
 
 ```text
 [*] Security Engineering
