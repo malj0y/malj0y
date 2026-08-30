@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/red-typewriter.svg" width="100%" alt="$ hello friend, can I call you friend?" />
+<img src="./assets/red-typewriter-v2.svg" width="100%" alt="$ hello friend, can I call you friend?" />
 
 <br>
 
